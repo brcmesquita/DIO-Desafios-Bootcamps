@@ -1,4 +1,5 @@
 ![Logo DIO](./img/logo_dio.png "Logo DIO")
+<img src="./img/logo_dio.png" alt="Logo DIO" width="200"/>
 
 # Desafio DIO de Github
 
