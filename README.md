@@ -14,7 +14,7 @@ Para *navegar* por estas bandas não é difícil, e você não vai precisar de u
 **É simples!**
 <p>Cada Bootcamp está organizado em uma pasta separadamente de acordo com o nome do Bootcamp e o ano. Por exemplo:</p>
   
->> Bootcamp \<Nome do Bootcamp\> Ano
+> Bootcamp \<Nome do Bootcamp\> Ano
   
 Atualmente neste repositório há material dos Bootcamps:
   
@@ -30,5 +30,5 @@ Me mande um [📫 email](mailto:brcmesquita@gmail.com).
 
 **Use este repositório com sabedoria**
 
->> *"Com grandes poderes, vêm grandes responsabilidades."*
+> *"Com grandes poderes, vêm grandes responsabilidades."*
 
