@@ -1,9 +1,10 @@
 <div align="center">
 <img src="./img/logo_dio.png" alt="Logo DIO" width="400"/>
-  <h1>
-    Repositório de Desafios da DIO
-  </h1>
-  <h2>Bootcamps Digital Innovation One</h2>
+
+  # Repositório de Desafios da DIO
+  
+  ### Bootcamps Digital Innovation One
+  
 </div>
 
 <h2>Navegação</h2>
