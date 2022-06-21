@@ -32,5 +32,5 @@ Me mande um [📫 email](mailto:brcmesquita@gmail.com).
 **Use este repositório com sabedoria**
 
 > *"Com grandes poderes, vêm grandes responsabilidades."*
-> \- Tio Ben 👴
+>  \- Tio Ben 👴
 
