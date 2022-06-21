@@ -1,7 +1,7 @@
 <div align="center">
-<img src="./img/logo_dio.png" alt="Logo DIO" width="400"/>
-
   # Repositório de Desafios da DIO
+  
+  <img src="./img/logo_dio.png" alt="Logo DIO" width="400"/>
   
   ### Bootcamps Digital Innovation One
   
