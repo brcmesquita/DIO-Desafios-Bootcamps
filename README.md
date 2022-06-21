@@ -19,8 +19,8 @@ Para *navegar* por estas bandas não é difícil, e você não vai precisar de u
   
 Atualmente neste repositório há material dos Bootcamps:
   
-- [Bootcamp Impulso Javascript Evolution 2022](https://web.dio.me/track/impulso-javascript-evolution)
-- [Bootcamp TQI Java 2022](https://web.dio.me/track/tqi-fullstack-developer)
+- [Bootcamp Impulso Javascript Evolution 2022](https://web.dio.me/track/impulso-javascript-evolution) - Em Curso
+- [Bootcamp TQI Java 2022](https://web.dio.me/track/tqi-fullstack-developer) - Incompleto
   
 Dentro da pasta de cada Bootcamp há uma nova pasta referente ao desafio final do curso ou módulo.
   
