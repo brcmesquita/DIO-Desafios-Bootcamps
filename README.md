@@ -1,9 +1,10 @@
 <div align="center">
 <img src="./img/logo_dio.png" alt="Logo DIO" width="400"/>
-  <h1>
-    Repositório de Desafios da DIO
-  </h1>
-  <h2>Bootcamps Digital Innovation One</h2>
+
+  # Repositório de Desafios da DIO
+  
+  ### Bootcamps Digital Innovation One
+  
 </div>
 
 <h2>Navegação</h2>
@@ -13,7 +14,7 @@ Para *navegar* por estas bandas não é difícil, e você não vai precisar de u
 **É simples!**
 <p>Cada Bootcamp está organizado em uma pasta separadamente de acordo com o nome do Bootcamp e o ano. Por exemplo:</p>
   
->> Bootcamp \<Nome do Bootcamp\> Ano
+> Bootcamp \<Nome do Bootcamp\> Ano
   
 Atualmente neste repositório há material dos Bootcamps:
   
@@ -29,5 +30,5 @@ Me mande um [📫 email](mailto:brcmesquita@gmail.com).
 
 **Use este repositório com sabedoria**
 
->> *"Com grandes poderes, vêm grandes responsabilidades."*
+> *"Com grandes poderes, vêm grandes responsabilidades."*
 
