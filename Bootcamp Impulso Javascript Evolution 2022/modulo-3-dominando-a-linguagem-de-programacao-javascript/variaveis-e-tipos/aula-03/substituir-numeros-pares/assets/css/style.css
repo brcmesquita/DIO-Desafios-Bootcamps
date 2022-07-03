@@ -1,0 +1,21 @@
+body {
+  background-color: #222;
+  color: #fff;
+  width: 600px;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#form {
+  text-align: center;
+}
+
+p {
+  font-size: 12px;
+  color: #aaa;
+}
+
+#resultado {
+  text-align: center;
+  margin-top: 40px;
+}
