@@ -1,0 +1,74 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #123;
+  color: #eee;
+  width: 600px;
+  margin: auto;
+}
+
+header {
+  text-align: center;
+  margin: 20px auto;
+}
+
+form {
+display: grid;
+grid-template-columns: 80px 200px;
+margin-bottom: 40px;
+align-items: center;
+justify-content: center;
+}
+
+form input {
+  margin-bottom: 8px;
+  border-radius: 4px;
+  padding: 6px;
+  
+}
+
+form button {
+  width: 100px;
+  margin-top: 10px;
+  grid-column: 2;
+  padding: 6px;
+  background-color: #007bff;
+  border: 1px solid transparent;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.tabela {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+table th {
+  border-bottom: 2px solid #fff;
+  padding: 10px;
+}
+
+table td {
+  padding: 4px;
+  border-bottom: 1px solid #555;
+}
+
+table td:last-child{
+  text-align: center;
+}
+
+.listaAprovados {
+  text-align: center;
+}
+
+.listaAprovados p {
+  margin-top: 1rem;
+  color: aqua;
+  word-wrap: break-word;
+}
