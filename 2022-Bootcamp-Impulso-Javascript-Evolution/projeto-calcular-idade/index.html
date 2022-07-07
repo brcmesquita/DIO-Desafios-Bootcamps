@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calcular Idade</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+  <h1>Desafio - Calcular Idade</h1>
+  <h3>Daqui a 5 anos, quantos anos você teria?</h3>
+
+  <p>Neste desafio, você vai escrever o seu nome, a sua idade, e depois um valor para calcular quantos anos você teria.</p>
+  <p>Por exemplo, você insere 5, então eu vou dizer quantos anos você teria daqui a 5 anos.</p>
+  <p>Quer tentar?</p>
+
+  <form id="form">
+    <label for="nome">Seu nome:</label>
+    <input type="text" id="nome" required>
+
+    <label for="idade">Sua idade:</label>
+    <input type="number" id="idade" required>
+
+    <label for="anos">Insira um valor em anos para calcular:</label>
+    <input type="number" id="anos" required>
+
+    <button type="submit">Enviar</button>
+  </form>
+
+  <div id="resultado"></div>
+  
+  <script src="scripts.js"></script>
+</body>
+</html>
